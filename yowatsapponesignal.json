@@ -7,9 +7,9 @@
       "Admob_banner": "ca-app-pub-3940256099942544/6300978111",
 
 
-      "Appodeal_id": "01234567890123457890145789",
-      "Unity_id": "3337513",
-      "Startapp_id": "206768024",
+      "Appodeal_id": "8eb5d9ef8937748a2976a55d607d6734141c1bd54d121f33",
+      "Unity_id": "4172801",
+      "Startapp_id": "205721122",
 
 
       "Active_Ad_network": "admob appodeal startapp",
@@ -28,7 +28,7 @@
       "NewApp_message": "please update to new version!",
 	  
 	  
-       "Custom_Enable_Popup": "yes",
+       "Custom_Enable_Popup": "no",
        "Custom_Cpa_title": "Lords Mobile: Kingdom Wars",
        "Custom_CpaIcon": "https://play-lh.googleusercontent.com/F_n5VMgvBNjlsPW45xY4U_zURHsJlIENPk06UxXsK4AleWGHmXW0zIQ_FFuiJ-fNSA",
        "Custom_CpaUrl": "https://www.youtube.com/",
