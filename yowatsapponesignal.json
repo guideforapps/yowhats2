@@ -3,8 +3,8 @@
     {
 
 
-      "Admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
-      "Admob_banner": "ca-app-pub-3940256099942544/6300978111",
+      "Admob_interstitial": "ca-app-pub-9665163698654768/1990865526",
+      "Admob_banner": "ca-app-pub-9665163698654768/8049007413",
 
 
       "Appodeal_id": "8eb5d9ef8937748a2976a55d607d6734141c1bd54d121f33",
@@ -12,12 +12,12 @@
       "Startapp_id": "205721122",
 
 
-      "Active_Ad_network": " Unity appodeal startapp",
+      "Active_Ad_network": " Admob",
 
 
-      "Ad__1__Interstitial": "appodeal",
-      "Ad__2__Interstitial": "Unity",
-      "Ad__3__Interstitial": "startapp",
+      "Ad__1__Interstitial": "Admob",
+      "Ad__2__Interstitial": "Admob",
+      "Ad__3__Interstitial": "Admob",
 
       "Ad__X__Banner": "admob",
 
