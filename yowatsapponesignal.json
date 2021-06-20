@@ -12,11 +12,11 @@
       "Startapp_id": "205721122",
 
 
-      "Active_Ad_network": "admob Unity appodeal startapp",
+      "Active_Ad_network": " Unity appodeal startapp",
 
 
-      "Ad__1__Interstitial": "Unity",
-      "Ad__2__Interstitial": "appodeal",
+      "Ad__1__Interstitial": "appodeal",
+      "Ad__2__Interstitial": "Unity",
       "Ad__3__Interstitial": "startapp",
 
       "Ad__X__Banner": "admob",
