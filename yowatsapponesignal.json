@@ -9,18 +9,18 @@
 
       "Appodeal_id": "8eb5d9ef8937748a2976a55d607d6734141c1bd54d121f33",
       "Unity_id": "4172801",
-      "Startapp_id": "205721122",
+      "Startapp_id": "205743730",
 
 
-      "Active_Ad_network": " Admob Unity Appodeal",
+      "Active_Ad_network": " Admob Startapp Appodeal",
 
 
       "Ad__1__Interstitial": "Admob",
-      "Ad__2__Interstitial": "Unity",
-      "Ad__3__Interstitial": "Admob",
+      "Ad__2__Interstitial": "Startapp",
+      "Ad__3__Interstitial": "Startapp",
       "Ad__3__Interstitial": "Appodeal",
 
-      "Ad__X__Banner": "admob Unity Appodeal ",
+      "Ad__X__Banner": "admob Startapp Appodeal ",
 
 
       "App_suspended": "no",
