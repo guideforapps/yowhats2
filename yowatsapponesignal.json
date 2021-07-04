@@ -9,20 +9,20 @@
 
       "Appodeal_id": "8eb5d9ef8937748a2976a55d607d6734141c1bd54d121f33",
       "Unity_id": "4172801",
-      "Startapp_id": "205743730",
+      "Startapp_id": "206725344",
 
 
-      "Active_Ad_network": " Admob Startapp Appodeal",
+      "Active_Ad_network": "Startapp Admob",
 
 
       "Ad__1__Interstitial": "Admob",
       "Ad__2__Interstitial": "Startapp",
       "Ad__3__Interstitial": "Startapp",
-      "Ad__3__Interstitial": "Appodeal",
+      "Ad__3__Interstitial": "Startapp",
+      "Ad__X__Banner": "admob Startapp ",
 
-      "Ad__X__Banner": "admob Startapp Appodeal ",
 
-
+     
       "App_suspended": "no",
       "NewApp_package": "com.facebook.lite",
       "NewApp_title": "App update!",
