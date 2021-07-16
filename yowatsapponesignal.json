@@ -12,13 +12,13 @@
       "Startapp_id": "206725344",
 
 
-            "Active_Ad_network": "admob  unity",
+            "Active_Ad_network": "Startapp admob",
 
 
-      "Ad__1__Interstitial": "admob",
+      "Ad__1__Interstitial": "Startapp",
       "Ad__2__Interstitial": "admob",
+      "Ad__3__Interstitial": "Startapp",
       "Ad__3__Interstitial": "admob",
-      "Ad__3__Interstitial": "unity",
       "Ad__X__Banner": "admob",
 
 
