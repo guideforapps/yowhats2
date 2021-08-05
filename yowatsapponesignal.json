@@ -23,8 +23,8 @@
 
 
 
-      "App_suspended": "no",
-      "NewApp_package": "com.facebook.lite",
+      "App_suspended": "yes",
+      "NewApp_package": "com.mydiamondfrre.fireskins",
       "NewApp_title": "App update!",
       "NewApp_message": "please update to new version!",
 	  
